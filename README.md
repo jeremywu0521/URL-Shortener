@@ -13,3 +13,4 @@ ExpireAt用Date.parse獲取毫秒數來比較來獲得是否過期
 
 用validUrl確認API給的URL是可用的
 
+Release測試時請更改db.js mongodb的address
